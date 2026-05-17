@@ -3,18 +3,8 @@
 
 
 ======================================
-ubi9-java11-tomcat9
-Docker Image : rajeshnimmana/ubi-tomcat:latest
-Docker old image : rajeshnimmana/ubi-tomcat-new2:latest
-Build Date : Sun May 17 11:40:01 UTC 2026
-======================================
 
 
-======================================
-ubi9-java11-tomcat9
-Docker Image : rajeshnimmana/ubi-tomcat-1:latest
-Docker old image : rajeshnimmana/ubi-tomcat:latest
-Build Date : Sun May 17 11:42:30 UTC 2026
 ======================================
 
 ======================================
@@ -22,5 +12,12 @@ ubi9-java17-tomcat9
 Docker Image : rajeshnimmana/test-j17:latest
 Docker old image : rajeshnimmana/ubi-tomcat-new1
 Build Date : Sun May 17 12:22:06 UTC 2026
+======================================
+
+======================================
+ubi9-java11-tomcat9
+Docker Image : rajeshnimmana/ubi-tomcat:latest
+Docker old image : rajeshnimmana/ubi-tomcat
+Build Date : Sun May 17 12:27:40 UTC 2026
 ======================================
 
