@@ -21,3 +21,9 @@ Docker old image : rajeshnimmana/ubi-tomcat
 Build Date : Sun May 17 12:27:40 UTC 2026
 ======================================
 
+======================================
+ubi10-java21-tomcat9
+Docker Image : rajeshnimmana/ubi-tomcat:latest
+Build Date : Sun May 17 12:30:11 UTC 2026
+======================================
+
